@@ -13,8 +13,8 @@ python peptoid_centroid_gen.py '<input.params>' <output_dir>
 - `<output_dir>`: Path to the output directory 
 
 ## Author
-Allon Goldberg
-Research Assistant
-Flatiron Institute, CCB, Biomolecular Design Group
+Allon Goldberg  
+Research Assistant  
+Flatiron Institute, CCB, Biomolecular Design Group  
 6/2024
 
