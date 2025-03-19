@@ -1,4 +1,5 @@
 # Rosetta Peptoid Params to Centroid Converter
+Python script to generate centroid params files for the then current Rosetta peptoids
 
 ## Description
 This script converts a Rosetta peptoid `normal.params` file into a `centroid.params` file. The conversion modifies the parameters to reflect centroid-level representation, simplifying the molecular details for low-resolution modeling in Rosetta.
